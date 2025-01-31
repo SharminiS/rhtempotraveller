@@ -443,7 +443,7 @@
     flex-wrap: wrap;
 }
 .wpb_text_column :last-child, .wpb_text_column p:last-child {
-    margin-bottom: 0;
+    margin-top: 6px;
 }
 
 .external_links ul {
@@ -512,7 +512,7 @@ ul {
     box-shadow: 1px 1px 1px 1px #73d700;
 }
 .wpb_text_column :last-child, .wpb_text_column p:last-child {
-    margin-bottom: 0;
+    margin-top: 6px;
 }
 
 .external_links ul li a {
