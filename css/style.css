@@ -509,7 +509,7 @@ ul {
     border-radius: 8px;
     text-transform: uppercase;
     display: flex;
-    box-shadow: 1px 1px 1px 1px #73d700;
+    box-shadow: 1px 1px 1px 1px #D81324;
 }
 .wpb_text_column :last-child, .wpb_text_column p:last-child {
     margin-top: 6px;
