@@ -781,6 +781,100 @@ width: 100%;
 
 
 
+.container {
+    padding: 20px;
+  }
+
+  .card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  .card-body {
+    padding: 20px;
+  }
+
+  .btn {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+  }
+
+  .btn-primary {
+    background-color: #D81324;
+  }
+
+  .btn-secondary {
+    background-color: #ffc001;
+  }
+
+  /* Enquiry Block Styles */
+  .enquiry-block {
+    display: none;
+    background-color: #ffc001;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+    color: #111111;
+  }
+
+  .info-item {
+    margin-bottom: 10px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+  }
+
+  .info-item span {
+    font-weight: bold;
+    margin-right: 8px;
+  }
+
+
+  .hidden {
+    display: none;
+}
+.company-details {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+}
+
+
+
+
+
+  .company-details {
+    background-color: #ffc001;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    color: #333;
+    font-size: 14px;
+  }
+  
+  .company-details h4 {
+    font-size: 17px;
+    font-weight: 800;
+    color: #fff;
+  }
+  
+  .btn-link {
+    color: #007bff;
+    text-decoration: underline;
+  }
+  
+  
 
 
 
